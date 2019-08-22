@@ -1,0 +1,7 @@
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb

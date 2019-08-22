@@ -1,0 +1,7 @@
+D:\OneDrive - Universidade Estadual de Campinas\Education\Alura\CSharp\DllsNuget\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+D:\OneDrive - Universidade Estadual de Campinas\Education\Alura\CSharp\DllsNuget\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+D:\OneDrive - Universidade Estadual de Campinas\Education\Alura\CSharp\DllsNuget\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+D:\OneDrive - Universidade Estadual de Campinas\Education\Alura\CSharp\DllsNuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojResolveAssemblyReference.cache
+D:\OneDrive - Universidade Estadual de Campinas\Education\Alura\CSharp\DllsNuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidade Estadual de Campinas\Education\Alura\CSharp\DllsNuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+D:\OneDrive - Universidade Estadual de Campinas\Education\Alura\CSharp\DllsNuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

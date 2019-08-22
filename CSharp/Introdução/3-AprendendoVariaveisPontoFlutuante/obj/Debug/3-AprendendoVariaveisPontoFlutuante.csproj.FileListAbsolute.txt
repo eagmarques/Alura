@@ -1,0 +1,6 @@
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\3-AprendendoVariaveisPontoFlutuante\obj\Debug\3-AprendendoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\3-AprendendoVariaveisPontoFlutuante\bin\Debug\3-AprendendoVariaveisPontoFlutuante.exe.config
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\3-AprendendoVariaveisPontoFlutuante\bin\Debug\3-AprendendoVariaveisPontoFlutuante.exe
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\3-AprendendoVariaveisPontoFlutuante\bin\Debug\3-AprendendoVariaveisPontoFlutuante.pdb
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\3-AprendendoVariaveisPontoFlutuante\obj\Debug\3-AprendendoVariaveisPontoFlutuante.exe
+E:\OneDrive - Universidade Estadual de Campinas\Alura\AprendendoCSharp\3-AprendendoVariaveisPontoFlutuante\obj\Debug\3-AprendendoVariaveisPontoFlutuante.pdb
