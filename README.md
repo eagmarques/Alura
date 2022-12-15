@@ -1,2 +1,2 @@
 # Alura
-Códigos, materiais e notebooks proveniente dos cursos feitos na Alura (Plataforma de ensino online)
+Codes, materials and notebooks from courses taken at Alura (Online teaching platform)
