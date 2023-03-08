@@ -1,16 +1,16 @@
 #Config
-#Sun Sep 27 22:08:58 AMT 2020
-cfg.tipodefault=0
-cfg.apagartextoaoeditar=true
-cfg.location.salvar=true
-cfg.mostrarids=false
+#Wed Mar 08 00:58:49 BRT 2023
 cfg.ancorador=true
-cfg.recentes=
 cfg.autosalvarintervalo=5
-cfg.mostrartooltips=true
-cfg.mostrardimensoesaomover=true
 cfg.mostrargrade=true
-cfg.propaguedeletetolines=true
-cfg.location.x=342
+cfg.apagartextoaoeditar=true
 cfg.location.y=174
+cfg.location.x=342
+cfg.mostrardimensoesaomover=true
 cfg.gradelargura=23
+cfg.mostrartooltips=true
+cfg.tipodefault=0
+cfg.mostrarids=false
+cfg.recentes=C\:\\Git\\Alura\\Modelagem_banco_de_dados\\ModeloClubleDoLivro.brM3
+cfg.location.salvar=true
+cfg.propaguedeletetolines=true
